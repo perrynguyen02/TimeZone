@@ -12,3 +12,4 @@ authority : tạo thêm một trang thêm nhân viên, set quyền mặc định
 quản lý đơn hàng,
 thống kê thì khi đơn hàng ở trạng thái thành công thì thống kê,
 thống kê doanh thu theo mốc thời gian ,
+# TimeZone
